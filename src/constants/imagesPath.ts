@@ -6,4 +6,11 @@ export default {
   rain: require('../assests/images/rainy.png'),
   heavyRain: require('../assests/images/heavyRain.png'),
   umbrella: require('../assests/images/umberella.png'),
+  right: require('../assests/images/right.png'),
+  weather: require('../assests/images/weather.png'),
+  cloud: require('../assests/images/cloud.png'),
+  sun: require('../assests/images/sun.png'),
+  drop: require('../assests/images/drop.png'),
+  wind: require('../assests/images/wind.png'),
+  windFarm: require('../assests/images/wind-farm.png'),
 };

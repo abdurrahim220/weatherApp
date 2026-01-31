@@ -3,7 +3,7 @@ import AuthStack from './AuthStack';
 import RootStack from './RootStack';
 
 const Routes = () => {
-  const isToken = false;
+  const isToken = true;
   return (
     <NavigationContainer>
       {isToken ? <RootStack /> : <AuthStack />}
